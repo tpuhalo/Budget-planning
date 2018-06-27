@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Budget planning</string>
+    <string name="info">I</string>
+    <string name="example">Ostalo</string>
+    <string name="title_activity_adding_category">Dodaj kategoriju</string>
+    <string name="kuc_potr">Kućne potrepštine</string>
+    <string name="zab">Zabava</string>
+    <string name="auto">Automobil</string>
+    <string name="ostalo">Ostalo</string>
+    <string name="listDefault">mj/god</string>
+
+    <string name="emptyTextView">Morate unijeti ime</string>
+    <string name="emptyAddObject">Morate unijeti ime troška i trošak</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="selectNameOfCategory">Režije, automobil, zabava..</string>
+
+    <string name="error">Greska.</string>
+    <string name="title_activity_showing_object">showingObject</string>
+    <string name="title_activity_inside_of_object">insideOfObject</string>
+    <string name="title_activity_show_objects_of_category">showObjectsOfCategory</string>
+    <string name="title_activity_camera">Skeniranje koda</string>
+
+    <string name="infoMessage">Projekt napravljen u sklopu završnog</string>
+    <string name="infoMessage1">rada na Tehničkom veleučilištu u Zagrebu.</string>
+    <string name="infoMessage2">Aplikacija je namijenjena za mjesečno</string>
+    <string name="infoMessage3">praćenje troškova života.</string>
+    <string name="infoMessage4">Naprimjer troškovi u dućanu, režije,</string>
+    <string name="infoMessage5">gorivo za automobil itd.</string>
+    <string name="infoMessage6">Projekt je napravio Tihomir Puhalo,</string>
+    <string name="infoMessage7">sa mentorom Tomislavom Novakom.</string>
+    <string name="infoMessage8">Verzija 1.0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
